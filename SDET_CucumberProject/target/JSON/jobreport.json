@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2020-10-11T04:56:55.229Z",
+        "start_timestamp": "2020-11-01T17:47:59.950Z",
         "line": 4,
         "name": "create a new user",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7905890200,
+              "duration": 8552092300,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 2346902500,
+              "duration": 5680524700,
               "status": "passed"
             },
             "line": 6,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 1643616500,
+              "duration": 3123423000,
               "status": "passed"
             },
             "line": 7,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 874351500,
+              "duration": 1196825200,
               "status": "passed"
             },
             "line": 8,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 1908299900,
+              "duration": 2214886700,
               "status": "passed"
             },
             "line": 9,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 1614085800,
+              "duration": 2146636900,
               "status": "passed"
             },
             "line": 10,
@@ -91,7 +91,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-11T04:57:11.760Z",
+        "start_timestamp": "2020-11-01T17:48:23.056Z",
         "line": 12,
         "name": "Searching for Jobs using xpath",
         "description": "",
@@ -101,7 +101,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6833737600,
+              "duration": 7097007500,
               "status": "passed"
             },
             "line": 13,
@@ -113,7 +113,7 @@
           },
           {
             "result": {
-              "duration": 955660000,
+              "duration": 1178111900,
               "status": "passed"
             },
             "line": 14,
@@ -125,7 +125,7 @@
           },
           {
             "result": {
-              "duration": 240321100,
+              "duration": 157571300,
               "status": "passed"
             },
             "line": 15,
@@ -137,7 +137,7 @@
           },
           {
             "result": {
-              "duration": 469180100,
+              "duration": 280959700,
               "status": "passed"
             },
             "line": 16,
@@ -149,7 +149,7 @@
           },
           {
             "result": {
-              "duration": 1729475700,
+              "duration": 2154881000,
               "status": "passed"
             },
             "line": 17,
@@ -167,7 +167,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-11T04:57:22.063Z",
+        "start_timestamp": "2020-11-01T17:48:33.979Z",
         "line": 19,
         "name": "Posting a job using parameterization",
         "description": "",
@@ -177,7 +177,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6457355600,
+              "duration": 7188407800,
               "status": "passed"
             },
             "line": 20,
@@ -189,7 +189,7 @@
           },
           {
             "result": {
-              "duration": 3726021200,
+              "duration": 6540136200,
               "status": "passed"
             },
             "line": 21,
@@ -201,7 +201,7 @@
           },
           {
             "result": {
-              "duration": 10868710100,
+              "duration": 10526416700,
               "status": "passed"
             },
             "line": 22,
@@ -227,7 +227,7 @@
           },
           {
             "result": {
-              "duration": 1589021700,
+              "duration": 1747574100,
               "status": "passed"
             },
             "line": 23,
@@ -239,7 +239,7 @@
           },
           {
             "result": {
-              "duration": 710203700,
+              "duration": 762253300,
               "status": "passed"
             },
             "line": 24,
@@ -251,7 +251,7 @@
           },
           {
             "result": {
-              "duration": 167634300,
+              "duration": 149597200,
               "status": "passed"
             },
             "line": 25,
@@ -275,7 +275,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-11T04:57:45.614Z",
+        "start_timestamp": "2020-11-01T17:49:00.934Z",
         "line": 37,
         "name": "Using Examples table to post a job",
         "description": "",
@@ -285,7 +285,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6596851400,
+              "duration": 6692505700,
               "status": "passed"
             },
             "line": 28,
@@ -297,7 +297,7 @@
           },
           {
             "result": {
-              "duration": 3927785700,
+              "duration": 6220875500,
               "status": "passed"
             },
             "line": 29,
@@ -309,7 +309,7 @@
           },
           {
             "result": {
-              "duration": 10910996300,
+              "duration": 10617888600,
               "status": "passed"
             },
             "line": 30,
@@ -339,7 +339,7 @@
           },
           {
             "result": {
-              "duration": 1708653700,
+              "duration": 1629283100,
               "status": "passed"
             },
             "line": 31,
@@ -351,7 +351,7 @@
           },
           {
             "result": {
-              "duration": 747935100,
+              "duration": 1130996600,
               "status": "passed"
             },
             "line": 32,
@@ -363,7 +363,7 @@
           },
           {
             "result": {
-              "duration": 177649700,
+              "duration": 95798200,
               "status": "passed"
             },
             "line": 33,

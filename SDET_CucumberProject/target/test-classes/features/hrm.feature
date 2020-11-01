@@ -22,8 +22,8 @@ Feature: Alchemy HRM.
 
     Examples: 
       | FirstName | LastName | Status  | UserName |
-      | UserF09   | UserL09  | Enabled | User09   |
-      | UserF29   | UserL29  | Enabled | User29   |
+      | UserF01   | UserL01  | Enabled | User01   |
+      | UserF02   | UserL02  | Enabled | User02   |
 
   Scenario Outline: Creating multiple vacancies
     Given user login to the OrangeHRM Page3
@@ -33,5 +33,5 @@ Feature: Alchemy HRM.
 
     Examples: 
       | NewVName            | NewHManager          | NewJTitle                |
-      | newJobVacancyName27 | FirstName1 LastName1 | Automation Test Engineer |
-      | newJobVacancyName29 | FirstName1 LastName1 | Automation Test Engineer |
+      | newJobVacancyName77 | FirstName1 LastName1 | Automation Test Engineer |
+      | newJobVacancyName99 | FirstName1 LastName1 | Automation Test Engineer |

@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2020-10-11T05:03:46.590Z",
+        "start_timestamp": "2020-11-01T17:51:23.913Z",
         "line": 4,
         "name": "Creating a job vacancy for DevOPS Engineer",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6758603800,
+              "duration": 6671067000,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 1529366900,
+              "duration": 963526600,
               "status": "passed"
             },
             "line": 6,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 1392064400,
+              "duration": 1246965100,
               "status": "passed"
             },
             "line": 7,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 1858266500,
+              "duration": 1768178900,
               "status": "passed"
             },
             "line": 8,
@@ -67,7 +67,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-11T05:03:58.264Z",
+        "start_timestamp": "2020-11-01T17:51:34.686Z",
         "line": 10,
         "name": "adding a candidate for recruitment",
         "description": "",
@@ -77,7 +77,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6182237000,
+              "duration": 6272755600,
               "status": "passed"
             },
             "line": 11,
@@ -89,7 +89,7 @@
           },
           {
             "result": {
-              "duration": 4649185500,
+              "duration": 3678624300,
               "status": "passed"
             },
             "line": 12,
@@ -101,7 +101,7 @@
           },
           {
             "result": {
-              "duration": 5262178500,
+              "duration": 5496291700,
               "status": "passed"
             },
             "line": 13,
@@ -113,9 +113,8 @@
           },
           {
             "result": {
-              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#menu_recruitment_viewRecruitmentModule\"}\n  (Session info: chrome\u003d86.0.4240.75)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-83K4TV4\u0027, ip: \u0027192.168.1.5\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.8\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\\Users\\NILADR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:59397}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2d075f45473fc78f748d2bf4c0f5e86d\n*** Element info: {Using\u003did, value\u003dmenu_recruitment_viewRecruitmentModule}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat stepDefinitions.hrm.user_verifies_added_candidate(hrm.java:142)\r\n\tat ✽.user verifies added candidate and close browser(file:///C:/Users/NiladriDutta/Downloads/SDET_CucumberProject%20(1)/SDET_CucumberProject/src/test/java/features/hrm.feature:14)\r\n",
-              "duration": 5089408000,
-              "status": "failed"
+              "duration": 4470432900,
+              "status": "passed"
             },
             "line": 14,
             "name": "user verifies added candidate and close browser",
@@ -132,7 +131,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-11T05:04:19.514Z",
+        "start_timestamp": "2020-11-01T17:51:54.666Z",
         "line": 25,
         "name": "Add multiple employees",
         "description": "",
@@ -142,7 +141,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5671684000,
+              "duration": 6186758100,
               "status": "passed"
             },
             "line": 17,
@@ -154,7 +153,7 @@
           },
           {
             "result": {
-              "duration": 7707235500,
+              "duration": 7705362600,
               "status": "passed"
             },
             "line": 18,
@@ -166,19 +165,19 @@
           },
           {
             "result": {
-              "duration": 8718435400,
+              "duration": 8800770000,
               "status": "passed"
             },
             "line": 19,
-            "name": "user adds a employee with details \"UserF09\", \"UserL09\"",
+            "name": "user adds a employee with details \"UserF01\", \"UserL01\"",
             "match": {
               "arguments": [
                 {
-                  "val": "UserF09",
+                  "val": "UserF01",
                   "offset": 35
                 },
                 {
-                  "val": "UserL09",
+                  "val": "UserL01",
                   "offset": 46
                 }
               ],
@@ -188,15 +187,15 @@
           },
           {
             "result": {
-              "duration": 7511655500,
+              "duration": 6641027700,
               "status": "passed"
             },
             "line": 20,
-            "name": "user enters further details \"User09\", \"Enabled\"",
+            "name": "user enters further details \"User01\", \"Enabled\"",
             "match": {
               "arguments": [
                 {
-                  "val": "User09",
+                  "val": "User01",
                   "offset": 29
                 },
                 {
@@ -210,19 +209,19 @@
           },
           {
             "result": {
-              "duration": 7286046100,
+              "duration": 7077709000,
               "status": "passed"
             },
             "line": 21,
-            "name": "user verifies the created employee \"UserF09\", \"UserL09\" and close browser",
+            "name": "user verifies the created employee \"UserF01\", \"UserL01\" and close browser",
             "match": {
               "arguments": [
                 {
-                  "val": "UserF09",
+                  "val": "UserF01",
                   "offset": 36
                 },
                 {
-                  "val": "UserL09",
+                  "val": "UserL01",
                   "offset": 47
                 }
               ],
@@ -238,7 +237,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-11T05:04:56.447Z",
+        "start_timestamp": "2020-11-01T17:52:31.116Z",
         "line": 26,
         "name": "Add multiple employees",
         "description": "",
@@ -248,7 +247,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5763462600,
+              "duration": 6165148300,
               "status": "passed"
             },
             "line": 17,
@@ -260,7 +259,7 @@
           },
           {
             "result": {
-              "duration": 7710938800,
+              "duration": 7791093300,
               "status": "passed"
             },
             "line": 18,
@@ -272,19 +271,19 @@
           },
           {
             "result": {
-              "duration": 8748223500,
+              "duration": 8686799900,
               "status": "passed"
             },
             "line": 19,
-            "name": "user adds a employee with details \"UserF29\", \"UserL29\"",
+            "name": "user adds a employee with details \"UserF02\", \"UserL02\"",
             "match": {
               "arguments": [
                 {
-                  "val": "UserF29",
+                  "val": "UserF02",
                   "offset": 35
                 },
                 {
-                  "val": "UserL29",
+                  "val": "UserL02",
                   "offset": 46
                 }
               ],
@@ -294,15 +293,15 @@
           },
           {
             "result": {
-              "duration": 7442802100,
+              "duration": 6621523500,
               "status": "passed"
             },
             "line": 20,
-            "name": "user enters further details \"User29\", \"Enabled\"",
+            "name": "user enters further details \"User02\", \"Enabled\"",
             "match": {
               "arguments": [
                 {
-                  "val": "User29",
+                  "val": "User02",
                   "offset": 29
                 },
                 {
@@ -316,19 +315,19 @@
           },
           {
             "result": {
-              "duration": 7276444500,
+              "duration": 7030826300,
               "status": "passed"
             },
             "line": 21,
-            "name": "user verifies the created employee \"UserF29\", \"UserL29\" and close browser",
+            "name": "user verifies the created employee \"UserF02\", \"UserL02\" and close browser",
             "match": {
               "arguments": [
                 {
-                  "val": "UserF29",
+                  "val": "UserF02",
                   "offset": 36
                 },
                 {
-                  "val": "UserL29",
+                  "val": "UserL02",
                   "offset": 47
                 }
               ],
@@ -344,7 +343,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-11T05:05:33.424Z",
+        "start_timestamp": "2020-11-01T17:53:07.445Z",
         "line": 36,
         "name": "Creating multiple vacancies",
         "description": "",
@@ -354,7 +353,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5675296000,
+              "duration": 5985483800,
               "status": "passed"
             },
             "line": 29,
@@ -366,7 +365,7 @@
           },
           {
             "result": {
-              "duration": 1102877100,
+              "duration": 1729225900,
               "status": "passed"
             },
             "line": 30,
@@ -378,16 +377,15 @@
           },
           {
             "result": {
-              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//select[@id\u003d\u0027addJobVacancy_jobTitle\u0027]\"}\n  (Session info: chrome\u003d86.0.4240.75)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-83K4TV4\u0027, ip: \u0027192.168.1.5\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.8\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\\Users\\NILADR~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:49319}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a9f1909df2a8e05fc7ae9c211b035e32\n*** Element info: {Using\u003dxpath, value\u003d//select[@id\u003d\u0027addJobVacancy_jobTitle\u0027]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat stepDefinitions.hrm.user_adds_a_candidate_with_details(hrm.java:267)\r\n\tat ✽.user adds a candidate with details \"newJobVacancyName27\", \"FirstName1 LastName1\", \"Automation Test Engineer\"(file:///C:/Users/NiladriDutta/Downloads/SDET_CucumberProject%20(1)/SDET_CucumberProject/src/test/java/features/hrm.feature:31)\r\n",
-              "duration": 15141932000,
-              "status": "failed"
+              "duration": 9252533400,
+              "status": "passed"
             },
             "line": 31,
-            "name": "user adds a candidate with details \"newJobVacancyName27\", \"FirstName1 LastName1\", \"Automation Test Engineer\"",
+            "name": "user adds a candidate with details \"newJobVacancyName77\", \"FirstName1 LastName1\", \"Automation Test Engineer\"",
             "match": {
               "arguments": [
                 {
-                  "val": "newJobVacancyName27",
+                  "val": "newJobVacancyName77",
                   "offset": 36
                 },
                 {
@@ -405,14 +403,15 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 6508667700,
+              "status": "passed"
             },
             "line": 32,
-            "name": "user verifies added candidate with details \"newJobVacancyName27\", \"FirstName1 LastName1\", \"Automation Test Engineer\" and close browser",
+            "name": "user verifies added candidate with details \"newJobVacancyName77\", \"FirstName1 LastName1\", \"Automation Test Engineer\" and close browser",
             "match": {
               "arguments": [
                 {
-                  "val": "newJobVacancyName27",
+                  "val": "newJobVacancyName77",
                   "offset": 44
                 },
                 {
@@ -436,7 +435,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-10-11T05:05:55.375Z",
+        "start_timestamp": "2020-11-01T17:53:30.954Z",
         "line": 37,
         "name": "Creating multiple vacancies",
         "description": "",
@@ -446,7 +445,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5907282300,
+              "duration": 6811439000,
               "status": "passed"
             },
             "line": 29,
@@ -458,7 +457,7 @@
           },
           {
             "result": {
-              "duration": 1418924100,
+              "duration": 1055526000,
               "status": "passed"
             },
             "line": 30,
@@ -470,15 +469,15 @@
           },
           {
             "result": {
-              "duration": 9344482900,
+              "duration": 9242136400,
               "status": "passed"
             },
             "line": 31,
-            "name": "user adds a candidate with details \"newJobVacancyName29\", \"FirstName1 LastName1\", \"Automation Test Engineer\"",
+            "name": "user adds a candidate with details \"newJobVacancyName99\", \"FirstName1 LastName1\", \"Automation Test Engineer\"",
             "match": {
               "arguments": [
                 {
-                  "val": "newJobVacancyName29",
+                  "val": "newJobVacancyName99",
                   "offset": 36
                 },
                 {
@@ -496,15 +495,15 @@
           },
           {
             "result": {
-              "duration": 6632701400,
+              "duration": 7637654000,
               "status": "passed"
             },
             "line": 32,
-            "name": "user verifies added candidate with details \"newJobVacancyName29\", \"FirstName1 LastName1\", \"Automation Test Engineer\" and close browser",
+            "name": "user verifies added candidate with details \"newJobVacancyName99\", \"FirstName1 LastName1\", \"Automation Test Engineer\" and close browser",
             "match": {
               "arguments": [
                 {
-                  "val": "newJobVacancyName29",
+                  "val": "newJobVacancyName99",
                   "offset": 44
                 },
                 {

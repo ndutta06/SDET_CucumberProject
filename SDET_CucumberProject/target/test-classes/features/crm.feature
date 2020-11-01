@@ -15,7 +15,7 @@ Feature: Alchemy CRM.
   Scenario: Schedule a meeting and invite members
     Given user is on the Alchemy CRM website2
     When user navigates to schedule meeting
-    Then user enter details for meeting "Subject001", "10/10/2020", "11/10/2020", "xyz", "cucumber", "nit"
+    Then user enter details for meeting "Subject001", "10/10/2020", "11/10/2020", "Max", "allen", "abc"
     And user verifies the created meeting with "Subject001" and close browser
 
   Scenario Outline: Create a Product
